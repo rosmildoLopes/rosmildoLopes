@@ -1,4 +1,4 @@
-### Hi there I'm Rosmildo Lopes👋
+## Hi there I'm Rosmildo Lopes👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosmildolopes/)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/rosmildolopes/)
@@ -23,7 +23,7 @@
 </div><br/>
 
 
-## I strongly believe that coding is not just a job, but a way of life. I enjoy the challenge of solving complex problems and I am always striving to improve my abilities.
+### I strongly believe that coding is not just a job, but a way of life. I enjoy the challenge of solving complex problems and I am always striving to improve my abilities.
 
 
 

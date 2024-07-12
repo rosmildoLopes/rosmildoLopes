@@ -6,7 +6,7 @@ In 2022, I completed my training to become a web developer with the amazing peop
 
 In my previous life, I used to work in the marketing world, where I developed strong skills in communication, creativity, and project management. Whether it was crafting compelling campaigns or analyzing market trends.📈📊
 
-❤️Check out some of my work in my [portfolio](https://my-portfolio-sepia-ten-33.vercel.app/). 🌟
+❤️ Check out some of my work in my [portfolio](https://my-portfolio-sepia-ten-33.vercel.app/). 🌟
 
 ⚡️ Since 2022, I have been working at Numen Publicidad in Buenos Aires, where I get the chance to build a variety of projects using a very diverse stack: React, Next.js, Typescript, PostgreSQL Databases, Node.js, React-Query, Tailwind, etc! I also built their website, which you can check out [here](https://landing-academia.vercel.app/ ).
 

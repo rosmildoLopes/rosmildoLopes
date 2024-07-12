@@ -1,5 +1,18 @@
 ## Hi there I'm Rosmildo Lopes👋
 
+Welcome to my GitHub space! ✨
+
+In 2022, I completed my training to become a web developer with the amazing people of [Academia Numen](https://www.instagram.com/academianumen/) 🤩
+
+In my previous life, I used to work in the marketing world, where I developed strong skills in communication, creativity, and project management. Whether it was crafting compelling campaigns or analyzing market trends.📈📊
+
+❤️ When I first fell in love with CSS and JavaScript, I tried to create engaging web experiences that reflected the creativity and strategy I enjoyed in marketing! (check the code) 🎨
+
+⚡️ Since 2021, I have been working at [Numen Publicidad](https://www.companion.studio/) in Buenos Aires, where I get the chance to build a variety of projects using a very diverse stack: React, Next.js, Typescript, PostgreSQL Databases, Node.js, React-Query, Tailwind, etc! I also built their website, which you can check out [here](https://landing-academia.vercel.app/ ).
+
+I enjoy exploring new technologies and comparing them with the ones I already know. This way I understand the core concepts of programming in a more intuitive way while having fun :)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosmildolopes/)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-sepia-ten-33.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopesrosmildo@gmail.com)
